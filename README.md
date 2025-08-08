@@ -1,6 +1,6 @@
 # Description
 
-Scripted toold for Adobe After Effects
+Scripted tools for Adobe After Effects
 
 
 ## KMarkRetime
@@ -16,6 +16,10 @@ Other features:
 - Copy markers to other layers
 - Change multiple layers time blending
 - Select/disable time remapped layers in bulk
+
+Use help button for instructions to use.
+
+Retimes made with this plugin are fully functional without the plugin installed.
 
 <img src="https://github.com/user-attachments/assets/30354828-fc62-47ba-9664-d557a669b72a" alt="Docable Interface" width="400">
 

@@ -5,25 +5,35 @@ Scripted toold for Adobe After Effects
 
 ## KMarkRetime
 
-Full featured scripted plugin that makes re-timing layers in AE a breeze. It uses layer markers with speed values to create all kind of speed ramps for you. 
-Put the compiled KMarkRetime.jsxbin file into `C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Scripts\ScriptUI Panels` folder to be able to dock it into AE's interface like any other plugin.
+Full featured scripted plugin that makes re-timing layers in AE a breeze.
+It uses layer markers with speed values to create all kind of speed ramps for you.
+Marker management included: change marker color, shift them across and copy over other layers with ease.
+Change multiple layers time blending, select/disable time remapped layers in bulk.
+
+<img src="https://github.com/user-attachments/assets/30354828-fc62-47ba-9664-d557a669b72a" alt="Docable Interface" width="400">
+
+To install put the compiled KMarkRetime.jsxbin file into `C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Scripts\ScriptUI Panels` folder to be able to dock it into AE's interface like any other plugin. Restart After Effects.
 
 
 ## LayerMarkIT.jsx
 
 Creates compostition markers for each layer in current selection. You can specify handles (before and after) to the lengths
 
+
 ## LayerNullIT.jsx
 
 Creates nulls for each of currently selected layers at their positions (also copying the rotation and scale)
+
 
 ## LayerQueueIT.jsx
 
 This script enqueues/renders all of the current composition's areas where the selected layers present. It gives the names of the layers to the output files and adds handles (in seconds, before and after the layers ins/outs) 
 
+
 ## MarkerQueueIT.jsx
 
 This script enqueues/renders all of the current composition's marker areas
+
 
 ## SubNudgeIT.jsx
 

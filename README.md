@@ -6,9 +6,16 @@ Scripted toold for Adobe After Effects
 ## KMarkRetime
 
 Full featured scripted plugin that makes re-timing layers in AE a breeze.
+
 It uses layer markers with speed values to create all kind of speed ramps for you.
-Marker management included: change marker color, shift them across and copy over other layers with ease.
-Change multiple layers time blending, select/disable time remapped layers in bulk.
+
+Other features:
+
+- Change marker colors
+- Shift markers across layers
+- Copy markers to other layers
+- Change multiple layers time blending
+- Select/disable time remapped layers in bulk
 
 <img src="https://github.com/user-attachments/assets/30354828-fc62-47ba-9664-d557a669b72a" alt="Docable Interface" width="400">
 

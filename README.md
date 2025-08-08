@@ -1,6 +1,12 @@
 # Description
 
-Scripted snippets for Adobe After Effects. Each of them has a usage/settings description in the commented section
+Scripted toold for Adobe After Effects
+
+
+## KMarkRetime
+
+Full featured scripted plugin that makes re-timing layers in AE a breeze. It uses layer markers with speed values to create all kind of speed ramps for you. 
+Put the compiled KMarkRetime.jsxbin file into `C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Scripts\ScriptUI Panels` folder to be able to dock it into AE's interface like any other plugin.
 
 
 ## LayerMarkIT.jsx
